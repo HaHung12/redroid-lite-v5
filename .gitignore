@@ -1,0 +1,11 @@
+# APK files (too large for GitHub)
+roblox-apks/*.apk
+roblox-apks/*.xapk
+
+# Backups
+docker-compose.yml.bak.*
+scripts/strip.sh.bak.*
+
+# Local
+*.log
+*.tmp
